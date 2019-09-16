@@ -1,0 +1,15 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" width="130" height="131" viewBox="0 0 130 131">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #333;
+        stroke-width: 2px;
+        stroke-dasharray: 4 4;
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="130" height="131"/>
+  <rect class="cls-1" x="8" y="8" width="115" height="114"/>
+</svg>

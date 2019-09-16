@@ -1,0 +1,23 @@
+<div class="menu">
+	<div class="container_close_menu container">
+		<div class="row">
+			<button class="close_menu" id="close_menu"></button>
+		</div>
+	</div>
+	<div class="flex_go">
+		<div class="container">
+			<div class="row">
+				<div class="site_menu">
+					 <ul class="menu_list">
+                        {% for page in pages.children %}
+                        {% if page.visible %}
+                        {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
+                        <li class="{{ current_page }} menu_list_item"><a href="/{{ page.url }}">{{ page.menu }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

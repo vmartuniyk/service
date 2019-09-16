@@ -1,0 +1,301 @@
+1569265769
+a:2:{s:7:"content";s:21123:"<section class="descr_page_go">
+    <div class="container">
+        <div class="row">
+            <div class="header_pg_descr flex_go flex_between">
+                <div class="left_texts_dscr">
+                    <h2 class="h2">Web design</h2>
+                    <div class="subtitle_gr_g">Our latest worsk</div>
+                </div>
+                <div class="right_icon_category">
+                    <div class="icon_who_we_are_g programming">
+                        <div class="white_top white_dash_go"></div>
+                        <div class="white_right white_dash_go"></div>
+                        <div class="white_left white_dash_go"></div>
+                        <div class="white_bottom white_dash_go"></div>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="41" height="87" viewBox="0 0 59 87" fill="none"><path d="M30 58.86C32.1097 58.86 33.82 57.1497 33.82 55.04C33.82 52.9303 32.1097 51.22 30 51.22C27.8903 51.22 26.18 52.9303 26.18 55.04C26.18 57.1497 27.8903 58.86 30 58.86Z" fill="#343434"/> <path d="M22.96 71.47H37.04L44.95 54.34L31.12 31.67V49.1C34.4 49.72 36.57 52.88 35.95 56.16C35.33 59.44 32.17 61.61 28.89 60.99C25.61 60.37 23.44 57.21 24.06 53.93C24.52 51.48 26.44 49.56 28.89 49.1V31.67L15.06 54.34L22.96 71.47Z" fill="#343434"/> <path d="M23.36 73.7H36.63V75.41H23.36V73.7V73.7Z" fill="#343434"/> <path d="M6.38 13.61C8.96 13.59 11.16 11.75 11.65 9.22H20.79C17.03 11.95 14.69 16.23 14.42 20.86H11.32C10.7 20.86 10.2 21.36 10.2 21.98V30.96C10.2 31.58 10.7 32.08 11.32 32.08H20.3C20.92 32.08 21.42 31.58 21.42 30.96V21.97C21.42 21.35 20.92 20.85 20.3 20.85H16.65C16.98 16.01 19.92 11.74 24.32 9.7V12.58C24.32 13.2 24.82 13.7 25.44 13.7H34.42C35.04 13.7 35.54 13.2 35.54 12.58V9.7C39.95 11.73 42.89 16.01 43.21 20.85H39.56C38.94 20.85 38.44 21.35 38.44 21.97V30.95C38.44 31.57 38.94 32.07 39.56 32.07H48.54C49.16 32.07 49.66 31.57 49.66 30.95V21.97C49.66 21.35 49.16 20.85 48.54 20.85H45.44C45.18 16.21 42.84 11.94 39.08 9.21001H48.1C48.67 11.72 50.91 13.49 53.48 13.48C56.51 13.48 58.98 11.07 58.98 8.10001C58.98 5.13001 56.51 2.72 53.48 2.72C50.91 2.7 48.67 4.48001 48.1 6.99001H35.53V3.61C35.53 2.99 35.03 2.49001 34.41 2.49001H25.43C24.81 2.49001 24.31 2.99 24.31 3.61V7H11.63C11.14 4.47 8.93 2.64 6.36 2.61C3.39 2.61 0.979996 5.08 0.979996 8.11C0.999996 11.14 3.41 13.61 6.38 13.61Z" fill="#343434"/> </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="descr_article_go">
+                <p>On the stage of development of design of web-representation we hold conversations with clients to understand their requirements and wishes concerning design of web-representation.</p>
+                <p></p>
+                <p>On this stage is defined structure of placing information of site. Designers of our studio develop exclusive site design creating original or corresponding to the company style solution. Work is done with taking into consideration of Internet specialties and specialties of comprehension of information from the screen.</p>
+            </div>
+            <div class="descr_article_go">
+                <p>We offer our client a few of conceptual versions of site design depending on chosen complexity of project. Artists work is strictly accorded with requirements and wishes of client in order to site maximally corresponded to set up tasks.<br>The end of this stage is statement of structure and concept of design.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="block_portfolio_design">
+                <div class="category_design">
+                    <ul>
+                        <li class="active">
+                            <a href="#">All projects</a>
+                        </li>
+                        <li>
+                            <a href="#">Information sites</a>
+                        </li>
+                        <li>
+                            <a href="#">Online stores</a>
+                        </li>
+                        <li>
+                            <a href="#">Art design</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="block_grid_portfol">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-6 item_portfolio_g big wow zoomIn">
+                    <div class="in_to_project_go">
+                        <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_1.jpg" alt="" />
+                        <div class="descr_this_work_prtf">
+                            <div class="flex_go flex_center">
+                                <div class="row_center_g_project">
+                                    <div class="logo_project"><img src="images/logo_project.png" alt=""></div>
+                                    <div class="descr_project_dsg">
+                                        <div class="title_proj">Name of project</div>
+                                        <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                        <div class="see_the_project_go">
+                                            <a href="#" class="see_project">See project</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 small_col_go">
+                    <div class="row">
+                        <div class="col-md-6 item_portfolio_g wow zoomIn">
+                            <div class="in_to_project_go">
+                                <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_2.jpg" alt="" />
+                                <div class="descr_this_work_prtf">
+                                    <div class="flex_go flex_center">
+                                        <div class="row_center_g_project">
+                                            <div class="logo_project"><img width="250" src="images/logo_project.png" alt=""></div>
+                                            <div class="descr_project_dsg">
+                                                <div class="title_proj">Name of project</div>
+                                                <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                                <div class="see_the_project_go">
+                                                    <a href="#" class="see_project">See project</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 item_portfolio_g wow zoomIn">
+                            <div class="in_to_project_go">
+                                <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_3.jpg" alt="" />
+                                <div class="descr_this_work_prtf">
+                                    <div class="flex_go flex_center">
+                                        <div class="row_center_g_project">
+                                            <div class="logo_project"><img width="250" src="images/logo_project.png" alt=""></div>
+                                            <div class="descr_project_dsg">
+                                                <div class="title_proj">Name of project</div>
+                                                <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                                <div class="see_the_project_go">
+                                                    <a href="#" class="see_project">See project</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 item_portfolio_g wow zoomIn">
+                            <div class="in_to_project_go">
+                                <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_4.jpg" alt="" />
+                                <div class="descr_this_work_prtf">
+                                    <div class="flex_go flex_center">
+                                        <div class="row_center_g_project">
+                                            <div class="logo_project"><img width="250" src="images/logo_project.png" alt=""></div>
+                                            <div class="descr_project_dsg">
+                                                <div class="title_proj">Name of project</div>
+                                                <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                                <div class="see_the_project_go">
+                                                    <a href="#" class="see_project">See project</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 item_portfolio_g wow zoomIn">
+                            <div class="in_to_project_go">
+                                <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_5.jpg" alt="" />
+                                <div class="descr_this_work_prtf">
+                                    <div class="flex_go flex_center">
+                                        <div class="row_center_g_project">
+                                            <div class="logo_project"><img width="250" src="images/logo_project.png" alt=""></div>
+                                            <div class="descr_project_dsg">
+                                                <div class="title_proj">Name of project</div>
+                                                <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                                <div class="see_the_project_go">
+                                                    <a href="#" class="see_project">See project</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 small_col_go">
+                    <div class="row">
+                        <div class="col-md-6 item_portfolio_g wow zoomIn">
+                            <div class="in_to_project_go">
+                                <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_6.jpg" alt="" />
+                                <div class="descr_this_work_prtf">
+                                    <div class="flex_go flex_center">
+                                        <div class="row_center_g_project">
+                                            <div class="logo_project"><img width="250" src="images/logo_project.png" alt=""></div>
+                                            <div class="descr_project_dsg">
+                                                <div class="title_proj">Name of project</div>
+                                                <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                                <div class="see_the_project_go">
+                                                    <a href="#" class="see_project">See project</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 item_portfolio_g wow zoomIn">
+                            <div class="in_to_project_go">
+                                <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_7.jpg" alt="" />
+                                <div class="descr_this_work_prtf">
+                                    <div class="flex_go flex_center">
+                                        <div class="row_center_g_project">
+                                            <div class="logo_project"><img width="250" src="images/logo_project.png" alt=""></div>
+                                            <div class="descr_project_dsg">
+                                                <div class="title_proj">Name of project</div>
+                                                <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                                <div class="see_the_project_go">
+                                                    <a href="#" class="see_project">See project</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 item_portfolio_g wow zoomIn">
+                            <div class="in_to_project_go">
+                                <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_8.jpg" alt="" />
+                                <div class="descr_this_work_prtf">
+                                    <div class="flex_go flex_center">
+                                        <div class="row_center_g_project">
+                                            <div class="logo_project"><img width="250" src="images/logo_project.png" alt=""></div>
+                                            <div class="descr_project_dsg">
+                                                <div class="title_proj">Name of project</div>
+                                                <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                                <div class="see_the_project_go">
+                                                    <a href="#" class="see_project">See project</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 item_portfolio_g wow zoomIn">
+                            <div class="in_to_project_go">
+                                <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_9.jpg" alt="" />
+                                <div class="descr_this_work_prtf">
+                                    <div class="flex_go flex_center">
+                                        <div class="row_center_g_project">
+                                            <div class="logo_project"><img width="250" src="images/logo_project.png" alt=""></div>
+                                            <div class="descr_project_dsg">
+                                                <div class="title_proj">Name of project</div>
+                                                <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                                <div class="see_the_project_go">
+                                                    <a href="#" class="see_project">See project</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 item_portfolio_g big">
+                    <div class="col-md-12 item_portfolio_g wow zoomIn">
+                        <div class="in_to_project_go">
+                            <img class="lazy img-responsive" src="https://res.cloudinary.com/drp9iwjqz/image/upload/e_blur:2000,f_auto,q_auto:eco/v1508291830/jeremywagner.me/using-webp-images/tacos-1x.jpg" data-src="images/grid/image_portf_10.jpg" alt="" />
+                            <div class="descr_this_work_prtf">
+                                <div class="flex_go flex_center">
+                                    <div class="row_center_g_project">
+                                        <div class="logo_project"><img width="250" src="images/logo_project.png" alt=""></div>
+                                        <div class="descr_project_dsg">
+                                            <div class="title_proj">Name of project</div>
+                                            <div class="descr_project">Lorem Ipsum is simply <br>dummy text try.</div>
+                                            <div class="see_the_project_go">
+                                                <a href="#" class="see_project">See project</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="block_see_more_portf_go wow fadeInUp" data-wow-delay=".5s">
+        <a href="#">See more</a>
+    </div>
+</section>
+<div class="modal_web_design">
+    <div class="block_gallery_image">
+        <div class="close_gallery_modal">×</div>
+        <div class="block_gall_image">
+            <img src="images/image_gallery_design.jpg" alt="" class="img-responsive">
+        </div>
+        <div class="block_paginate_gall_go">
+            <div class="block_pagination_g">
+                <ul class="flex_go flex_center">
+                    <li>
+                        <a href="#" class="prev_icon"></a>
+                    </li>
+                    <li>
+                        <a href="#">01</a>
+                    </li>
+                    <li class="active">
+                        <a href="#">02</a>
+                    </li>
+                    <li>
+                        <a href="#">03</a>
+                    </li>
+                    <li>
+                        <a href="#">04</a>
+                    </li>
+                    <li>
+                        <a href="#" class="next_icon"></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer_gall_go flex_go flex_between">
+            <button class="prev_gal">Previous</button>
+            <button class="next_gal">Next</button>
+        </div>
+    </div>
+</div>
+<div class="black_mock"></div>";s:12:"content_meta";N;}

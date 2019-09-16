@@ -1,0 +1,53 @@
+ <header class="header_other_page">
+        <div class="in_to_header_other_pg flex_go">
+            <div class="container">
+                <div class="row flex_go">
+                    <div class="burger_left_go">
+                        <div class="menu-icons-inside styling_menu_hambg">
+                            <div class="menu-icon menu-icon-main">
+                                <span class="menu-icon-create"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="logo_center_hd_g">
+                        <a href="/">
+                            <img src="images/logo_top_header.svg" alt="" width="259">
+                        </a>
+                    </div>
+                        <div class="menu_language_g">
+                            <ul class="flex_go flex_right">
+                                <li class="current">
+                                    <a href="#">EN</a>
+                                </li>
+                                <li>
+                                    <a href="#">De</a>
+                                </li>
+                            </ul>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="menu">
+	<div class="container_close_menu container">
+		<div class="row">
+			<button class="close_menu" id="close_menu"></button>
+		</div>
+	</div>
+	<div class="flex_go">
+		<div class="container">
+			<div class="row">
+				<div class="site_menu">
+					 <ul class="menu_list">
+                        {% for page in pages.children %}
+                        {% if page.visible %}
+                        {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
+                        <li class="{{ current_page }} menu_list_item"><a href="/{{ page.url }}">{{ page.menu }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

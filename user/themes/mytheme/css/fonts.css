@@ -1,0 +1,59 @@
+@font-face {
+	font-family: "Stolzl";
+	src: url("../fonts/StolzlRegular/StolzlRegular.eot");
+	src: url("../fonts/StolzlRegular/StolzlRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/StolzlRegular/StolzlRegular.woff") format("woff"),
+	url("../fonts/StolzlRegular/StolzlRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Stolzl";
+	src: url("../fonts/StolzlBook/StolzlBook.eot");
+	src: url("../fonts/StolzlBook/StolzlBook.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/StolzlBook/StolzlBook.woff") format("woff"),
+	url("../fonts/StolzlBook/StolzlBook.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: "Stolzl";
+	src: url("../fonts/StolzlBold/StolzlBold.eot");
+	src: url("../fonts/StolzlBold/StolzlBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/StolzlBold/StolzlBold.woff") format("woff"),
+	url("../fonts/StolzlBold/StolzlBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "Stolzl";
+	src: url("../fonts/StolzlThin/StolzlThin.eot");
+	src: url("../fonts/StolzlThin/StolzlThin.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/StolzlThin/StolzlThin.woff") format("woff"),
+	url("../fonts/StolzlThin/StolzlThin.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: "TTDrugs";
+	src: url("../fonts/TTDrugsthin/TTDrugsthin.eot");
+	src: url("../fonts/TTDrugsthin/TTDrugsthin.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/TTDrugsthin/TTDrugsthin.woff") format("woff"),
+	url("../fonts/TTDrugsthin/TTDrugsthin.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: "SnellRoundhand";
+	src: url("../fonts/SnellRoundhand/SnellRoundhand.eot");
+	src: url("../fonts/SnellRoundhand/SnellRoundhand.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/SnellRoundhand/SnellRoundhand.woff") format("woff"),
+	url("../fonts/SnellRoundhand/SnellRoundhand.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 500;
+}
